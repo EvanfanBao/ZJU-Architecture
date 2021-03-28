@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Ducument\ISE code\computer architecture\lab4\cpu\top.ncd
+OUTFILE=D:\Ducument\ISE code\computer architecture\lab4\cpu\top.bit
+FAMILY=Kintex7
+PART=xc7k325t-2lffg676
+WORKINGDIR=D:\Ducument\ISE code\computer architecture\lab4\cpu
+LICENSE=ISE
+USER_INFO=__0_0_0
